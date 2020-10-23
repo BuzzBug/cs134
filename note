@@ -1,0 +1,25 @@
+/etc ：etc这个目录是linux系统中最重要的目录之一。在这个目录下存放了系统管理时要用到的各种配置文件和子目录。我们要用到的网络配置文件，文件系统，x系统配置文件，设备配置信息，设置用户信息等都在这个目录下
+
+strace
+
+cat/more
+
+cc/gcc -o copy.c copy
+
+7/8 man pages 
+1-user commands: ls cat
+2-system calls
+3-standard library calls
+
+fork(): two processes
+-their process ids (pid) are different
+-duplicated momery & registers
+
+wait():wait for state changes in a child of  the  calling  process, and obtain information about the child whose state has changed.
+
+wait child process, or can never reuse that process id
+
+**lecture1  pipe.c can't read the number of files 
+$:constant
+
+

@@ -1,0 +1,17 @@
+copy
+copy.c
+copy_lowlevel
+copy_lowlevel.c
+copy.o
+copy.s
+fork
+fork.c
+fork_with_direct.c
+fork_with_redirect
+fork_with_redirect.c
+output.txt
+pipe
+pipe.c
+redirect
+redirect.c
+test
